@@ -2,9 +2,7 @@
 using Blog.WebAPI.Models;
 using BlogTest.Mock;
 using BusinessLogicLayer;
-using BusinessLogicLayer.Models;
 using Microsoft.AspNetCore.Mvc;
-using Xunit;
 using Assert = Xunit.Assert;
 using User = Blog.WebAPI.Models.User;
 
